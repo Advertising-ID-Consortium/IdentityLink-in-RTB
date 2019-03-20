@@ -90,8 +90,7 @@ IDLs received by IdentityLink customers in programmatic requests will match thos
 
 ### Related documentation
 - [Sidecar](https://sidecar.readme.io)
-- [Index Exchange, DSP](https://knowledgebase.indexexchange.com/display/ID/How+to+Use+adsrvr.org)
-- [Index Exchange, RTB Adapter](https://knowledgebase.indexexchange.com/display/ID/How+to+Use+adsrvr.org)
+- [Index Exchange, _How to Use the LiveRamp IdentityLink_](https://kb.indexexchange.com/Identity/How_to_Use_the_LiveRamp_Identity_Link.htm)
 
 ### Design Considerations
 

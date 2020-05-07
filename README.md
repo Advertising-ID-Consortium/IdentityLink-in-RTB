@@ -76,7 +76,7 @@ For current LiveRamp IdentityLink customers, the `uid.id` values will match thos
 
 ### About IdentityLinks
 #### Overview
-An IdentityLink is LiveRamp's universal identifier, connected to devices, that represents an individual. It is an anonymized version of an AbiliTec ID which is based on PII.
+An IdentityLink is LiveRamp's pseudonymous identifier, connected to devices, that represents an individual. It is an anonymized version of an AbiliTec ID which is based on PII.
 
 #### Taxonomy of an IdentityLink
 A typical IdentityLink might look something like: `XY1000bIVBVah9ium-sZ3ykhPiXQbEcUpn4GjCtxrrw2BRDGM`. The prefix `XY` indicates that it is a _maintained_ link, the strongest type of IdentityLink. `1000` indicates the IdentityLink consumer, who the link is encoded for. The remaining string refers to the underlying individual. The remaining string content will vary across IDL consumers, even if it represents the same individual.

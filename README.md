@@ -1,7 +1,7 @@
 # RampID (fka IdentityLink) in RTB
 
 ## Overview
-This document discusses technical means for enabling programmatic supply and demand partners with RampID (formerly known as IdentityLinks (IDLs))) in bid requests.
+This document discusses technical means for enabling programmatic supply and demand partners with RampID (formerly known as IdentityLinks) in bid requests.
 
 ## Components
 ### Identity Envelopes
